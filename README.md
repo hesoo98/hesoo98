@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hesoo98)](https://solved.ac/hesoo98/)
 ![hesoo98's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesoo98&theme=default&show_icons=true)
