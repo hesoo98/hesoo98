@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![hesoo98's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesoo98&theme=default&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hesoo98)](https://solved.ac/profile/hesoo98)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={hesoo98}&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=hesoo98&theme=warm)
 
   
   
