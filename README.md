@@ -19,14 +19,13 @@ Here are some ideas to get you started:
 <h3 align="center"><b>Introduction</b></h3>
 <p align="center">
 안녕하세요 개발공부중입니다. 잘부탁합니다~
-</p>
-
+</p><br>
 
 <h3 align="center"><b>Contact</b></h3>
 <p align="center">
 <a href="mailto:hesoo98@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> &nbsp
 <a href="https://open.kakao.com/me/podo34"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a> &nbsp
-</p>
+</p><br>
 
 <h3 align="center"><b>Skills</b></h3>
 <p align="center">
@@ -37,12 +36,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> &nbsp
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" /> &nbsp<br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />  
-</p>
+</p><br>
 
 <div align="center">
 
-![hesoo98's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesoo98&theme=default&show_icons=true)<br>
-  
+![hesoo98's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesoo98&theme=default&show_icons=true)<br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hesoo98)](https://solved.ac/profile/hesoo98)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hesoo98&theme=warm)
 
