@@ -52,7 +52,11 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hesoo98)](https://solved.ac/profile/hesoo98)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hesoo98&theme=warm)
 
-  
-  
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=fadeIn)
 
 </div>
