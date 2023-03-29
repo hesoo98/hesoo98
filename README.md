@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 <img src="http://mazandi.herokuapp.com/api?handle={hesoo98}&theme=warm"/>
 -->
 
-<h3 align="center"><b>Introduction</b></h3>
+<h3 align="center">🔆<b>Introduction</b></h3>
 <p align="center">
 안녕하세요 개발공부중입니다. 잘부탁합니다~
-</p><br>
+</p>
 
-<h3 align="center"><b>Contact</b></h3>
+<h3 align="center">📧<b>Contact</b></h3>
 <p align="center">
 <a href="mailto:hesoo98@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> &nbsp
 <a href="https://open.kakao.com/me/podo34"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a> &nbsp
-</p><br>
+</p>
 
-<h3 align="center"><b>Skills</b></h3>
+<h3 align="center">✏️<b>Skills</b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp <br>
