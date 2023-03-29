@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="mailto:hesoo98@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> &nbsp
 <a href="https://open.kakao.com/me/podo34"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a> &nbsp
+<a href="https://happy-hessut.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5B4B?style=flat-square&logo=Tistory&logoColor=white"/></a> &nbsp
 </p>
 
 <h3 align="center">✏️<b>Skills</b></h3>
